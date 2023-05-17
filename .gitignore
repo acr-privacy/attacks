@@ -1,0 +1,6 @@
+**/__pycache__/
+.direnv/
+.venv/
+data/
+models/
+experiments/
