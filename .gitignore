@@ -1,0 +1,7 @@
+.devcontainer
+.vscode
+.envrc
+__pycache__/
+*.egg-info/
+.venv/
+.direnv/
