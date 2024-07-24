@@ -1,10 +1,7 @@
 dataset:
 	data prepare -o data/raw/
 
-experiments:
-	speech-experiments
-	speaker-experiments
-	words-experiments
+experiments: speech-experiments speaker-experiments words-experiments
 
 speech-experiments:
 	modeling speech-experiment \
