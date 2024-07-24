@@ -27,6 +27,11 @@ If you want to reproduce our exact setup with GPU support run
 ```bash
 pip install -r requirements.txt
 ```
+In this setup we utilized the following hardware: 
+
+- 1x RTX 2080 Ti
+- Driver Version: 555.42.06
+- CUDA Version: 12.5
 
 3. Download and prepare dataset:
 
