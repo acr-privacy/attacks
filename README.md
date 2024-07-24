@@ -22,6 +22,12 @@ If you do not have GPU support run
 pip install .[cpu]
 ```
 
+If you want to reproduce our exact setup with GPU support run
+
+```bash
+pip install -r requirements.txt
+```
+
 3. Download and prepare dataset:
 
 ```bash
